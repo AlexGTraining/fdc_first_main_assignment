@@ -9,7 +9,19 @@
     <a href="./pages/main.html" title="Navigate to the main presentation">
       <figure>
         <picture>
-          <img src="./images/home.webp" alt="An image with the text: Some of my favorite actors" width="1024">
+          <source srcset="./images/home/home@landscape_large.webp" media="(min-aspect-ratio: 1/1) and (min-width:1600px)" type="image/webp">
+          <source srcset="./images/home/home@landscape_large.png" media="(min-aspect-ratio: 1/1) and (min-width:1600px)" type="image/png">
+          <source srcset="./images/home/home@landscape_medium.webp" media="(min-aspect-ratio: 1/1) and (min-width:800px)" type="image/webp">
+          <source srcset="./images/home/home@landscape_medium.png" media="(min-aspect-ratio: 1/1) and (min-width:800px)" type="image/png">
+          <source srcset="./images/home/home@landscape_small.webp" media="(min-aspect-ratio: 1/1) and (min-width:480px)" type="image/webp">
+          <source srcset="./images/home/home@landscape_small.png" media="(min-aspect-ratio: 1/1) and (min-width:480px)" type="image/png">
+          <source srcset="./images/home/home@portrait_large.webp" media="(max-aspect-ratio: 1/1) and (min-width:600px)" type="image/webp">
+          <source srcset="./images/home/home@portrait_large.png" media="(max-aspect-ratio: 1/1) and (min-width:600px)" type="image/png">
+          <source srcset="./images/home/home@portrait_medium.webp" media="(max-aspect-ratio: 1/1) and (min-width:400px)" type="image/webp">
+          <source srcset="./images/home/home@portrait_medium.png" media="(max-aspect-ratio: 1/1) and (min-width:400px)" type="image/png">
+          <source srcset="./images/home/home@portrait_small.webp" media="(max-aspect-ratio: 1/1) and (max-width:400px)" type="image/webp">
+          <source srcset="./images/home/home@portrait_small.png" media="(max-aspect-ratio: 1/1) and (max-width:400px)" type="image/png">
+          <img src="./images/home/home@portrait_small.png" alt="An image with the text: Some of my favorite actors">
         </picture>
         <figcaption>Show</figcaption>
       </figure>
