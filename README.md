@@ -11,6 +11,7 @@ Technologies allowed:
 Implementation
 
 Preview: https://alexgtraining.github.io/fdc_first_main_assignment/index.html 
+
 Considerations:
   - Accessibility support - provided various image rezolutions and formats to best cater to the users device
   - Performance - provided images in .webp format for improved download speed and .png format for wider support
