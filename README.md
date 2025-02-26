@@ -1,5 +1,6 @@
 <h2>Discalimer</h2>
 This project was created as an assignment for the Frontend Development Training Course organized by Kreativestorm.
+It represent the main assignment of the 1st week, out of the 4 weeks of this course.
 
 <h2>Requirements</h2>
 
