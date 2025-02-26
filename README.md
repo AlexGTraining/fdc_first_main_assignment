@@ -9,6 +9,7 @@ It represents the main assignment of the 1st week, out of the 4 weeks of this co
   - a few page presentation website about your hobby/favorite books/movies etc.
   - homepage with a link to go inside to the page where your material should be presented in list form, with links leading to pages with the description(text & image) of your chosen subject
   - Optional: make each list element into a link, leading to the page where additional information
+  - Work individually
 
 <h3>Technologies allowed</h3>
 
